@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/EthereumGoFundMe/static/css/main.387d0b86.css",
-    "main.js": "/EthereumGoFundMe/static/js/main.a0db96b7.js",
+    "main.js": "/EthereumGoFundMe/static/js/main.7a527a7a.js",
     "static/js/787.a30f189d.chunk.js": "/EthereumGoFundMe/static/js/787.a30f189d.chunk.js",
     "index.html": "/EthereumGoFundMe/index.html",
     "main.387d0b86.css.map": "/EthereumGoFundMe/static/css/main.387d0b86.css.map",
-    "main.a0db96b7.js.map": "/EthereumGoFundMe/static/js/main.a0db96b7.js.map",
+    "main.7a527a7a.js.map": "/EthereumGoFundMe/static/js/main.7a527a7a.js.map",
     "787.a30f189d.chunk.js.map": "/EthereumGoFundMe/static/js/787.a30f189d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.387d0b86.css",
-    "static/js/main.a0db96b7.js"
+    "static/js/main.7a527a7a.js"
   ]
 }
