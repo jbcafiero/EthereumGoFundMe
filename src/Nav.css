@@ -1,0 +1,38 @@
+.NavBar {
+    color: white;
+    background-color: white;
+    height: 50px;
+    border-bottom: 3px solid #4daa45;
+}
+
+.Network {
+    float: left;
+    padding: 15px 15px;
+    width: auto;
+    white-space: nowrap;
+}
+
+.Account {
+    float: right;
+    padding: 15px 15px;
+    color: #4daa45;
+}
+
+.net {
+    color: #4daa45;
+}
+
+.SignInButt {
+    border: 2px solid #4daa45;
+    color: #4daa45;
+    border-radius: 25px;
+    padding: 8px;
+    margin-top: -8px;
+    background-color: white;
+    transition: all 0.1s;
+}
+
+.SignInButt:hover {
+   color: white;
+   background-color: #79d670;
+}
